@@ -96,3 +96,5 @@ All matters relating to this repository shall be governed by the laws of **[Auth
 
 > ✋ **LAST UPDATE**: 14 July 2025  
 > ⚠️ **WARNING**: Continued access/use constitutes **irrevocable acceptance** of these terms. Exit this repository immediately if you do not agree.  
+- LEGAL RISK ACKNOWLEDGEMENT REQUIRED -
++ I understand and accept full responsibility for all risks +
